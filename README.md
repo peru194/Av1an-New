@@ -165,7 +165,9 @@ With your own parameters:
 - Manually:
   - Clone Repo or Download from Releases
   - `cargo build --release`
-
+## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/peru194/Av1an-New)
+    
 ## Docker
 
 Av1an can be run in a Docker container with the following command if you are in the current directory
